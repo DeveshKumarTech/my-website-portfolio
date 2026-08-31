@@ -233,31 +233,24 @@
   opacity: 0;
   transform: translateY(40px);
   animation: fadeInUp 0.8s ease-out forwards;
-  animation-timeline: view();
-  animation-range: entry 0% cover 30%;
 }
 
 .scroll-reveal-left {
   opacity: 0;
   transform: translateX(-40px);
   animation: fadeInLeft 0.8s ease-out forwards;
-  animation-timeline: view();
-  animation-range: entry 0% cover 30%;
 }
 
 .scroll-reveal-right {
   opacity: 0;
   transform: translateX(40px);
   animation: fadeInRight 0.8s ease-out forwards;
-  animation-timeline: view();
-  animation-range: entry 0% cover 30%;
 }
 
 /* Stagger Animation */
 .stagger-item {
   animation: fadeInUp 0.8s ease-out backwards;
-  animation-timeline: view();
-  animation-range: entry 0% cover 30%;
+}
 }
 
 .stagger-item:nth-child(1) {
