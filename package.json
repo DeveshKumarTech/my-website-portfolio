@@ -1,0 +1,99 @@
+{
+  "name": "devesh-kumar-portfolio",
+  "version": "1.0.0",
+  "description": "Premium personal developer portfolio for Devesh Kumar - B.Tech CSE Student | Aspiring Software Developer | AI & ML Enthusiast",
+  "author": "Devesh Kumar",
+  "email": "parmodkaushik2007@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeveshKumarTech/portfolio"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "computer-science",
+    "software-engineering",
+    "ai",
+    "machine-learning",
+    "web-development"
+  ],
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "echo 'Deploy to Netlify, Vercel, or GitHub Pages'"
+  },
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/DeveshKumarTech/portfolio",
+  "bugs": {
+    "url": "https://github.com/DeveshKumarTech/portfolio/issues"
+  },
+  "technologies": [
+    "HTML5",
+    "CSS3",
+    "JavaScript (ES6+)",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "SEO Optimization"
+  ],
+  "features": [
+    "Dark/Light Theme",
+    "Smooth Animations",
+    "Responsive Layout",
+    "Contact Form",
+    "Social Integration",
+    "Print Friendly",
+    "Performance Optimized"
+  ],
+  "structure": {
+    "index.html": "Main HTML file",
+    "css/": "Stylesheets (variables, base, components, animations, responsive)",
+    "js/": "JavaScript modules (theme, animations, interactions, main)",
+    "data/": "Portfolio content (portfolio.json)",
+    "assets/": "Images and media files",
+    "README.md": "Comprehensive documentation",
+    "CUSTOMIZATION.md": "Quick customization guide",
+    ".gitignore": "Git ignore rules"
+  },
+  "getting-started": {
+    "1-update-content": "Edit data/portfolio.json with your information",
+    "2-add-image": "Place your profile image in /assets folder",
+    "3-customize-colors": "Edit css/variables.css for your brand colors",
+    "4-update-links": "Replace social and contact links",
+    "5-deploy": "Push to GitHub or deploy to Netlify/Vercel"
+  },
+  "development": {
+    "requirements": "Any modern browser (Chrome, Firefox, Safari, Edge)",
+    "optional-tools": "Git, VS Code, Python (for local server)",
+    "local-server": "python3 -m http.server 8000"
+  },
+  "deployment-options": [
+    "GitHub Pages (free, git-based)",
+    "Netlify (free, git-based)",
+    "Vercel (free, git-based)",
+    "Firebase Hosting",
+    "Surge",
+    "Any static file host"
+  ],
+  "browser-support": {
+    "chrome": "90+",
+    "firefox": "88+",
+    "safari": "14+",
+    "edge": "90+",
+    "mobile": "Latest versions"
+  },
+  "performance": {
+    "lighthouse-target": "90+",
+    "mobile-friendly": true,
+    "pwa-ready": false,
+    "optimization": "Images should be optimized and compressed"
+  },
+  "accessibility": {
+    "wcag-level": "AA",
+    "keyboard-navigation": true,
+    "screen-reader-support": true,
+    "reduced-motion-support": true,
+    "color-contrast": "WCAG AA compliant"
+  }
+}

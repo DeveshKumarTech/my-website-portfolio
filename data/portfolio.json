@@ -1,0 +1,285 @@
+{
+  "personal": {
+    "name": "Devesh Kumar",
+    "title": "B.Tech CSE Student | Aspiring Software Developer",
+    "location": "Gurugram, Haryana, India",
+    "email": "parmodkaushik2007@gmail.com",
+    "phone": "9306636087",
+    "university": "Lovely Professional University",
+    "degree": "B.Tech Computer Science & Engineering",
+    "graduationYear": 2029
+  },
+  "hero": {
+    "headline": "B.Tech CSE Student | Aspiring Software Developer | Exploring AI, ML & Intelligent Applications",
+    "description": "I'm a B.Tech Computer Science and Engineering student at Lovely Professional University, focused on building a strong foundation in software development and problem-solving. I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my technical skills. Currently, I'm expanding my journey into AI, Machine Learning, intelligent applications, and game development while building projects that help me learn by creating.",
+    "roles": [
+      "Building Software",
+      "Exploring AI & ML",
+      "Creating Intelligent Applications",
+      "Learning Game Development",
+      "Turning Ideas Into Projects"
+    ]
+  },
+  "about": {
+    "introduction": "I'm a B.Tech Computer Science and Engineering student at Lovely Professional University, focused on building a strong foundation in software development and problem-solving. I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my technical skills. Currently, I'm expanding my journey into AI, Machine Learning, intelligent applications, and game development while building projects that help me learn by creating.",
+    "philosophy": "I don't just learn technologies—I explore how they can become useful things. Whether it's a web application, an intelligent system, or an interactive experience, I'm driven by the desire to create software that matters.",
+    "interests": [
+      "AI & Machine Learning",
+      "Intelligent Applications",
+      "Software Development",
+      "Web Development",
+      "Game Development",
+      "AI-Integrated Games",
+      "Creative Technology"
+    ]
+  },
+  "philosophy": {
+    "steps": [
+      {
+        "title": "Understand",
+        "description": "I start by deeply understanding the problem—its constraints, requirements, and context."
+      },
+      {
+        "title": "Analyze",
+        "description": "I break complex problems into logical parts and explore different solution approaches."
+      },
+      {
+        "title": "Build",
+        "description": "I implement practical solutions with clean, maintainable code and thoughtful design."
+      },
+      {
+        "title": "Learn",
+        "description": "I reflect on the results, understand what worked, and identify areas for improvement."
+      },
+      {
+        "title": "Improve",
+        "description": "I iterate continuously, refining both my work and my understanding."
+      }
+    ]
+  },
+  "skills": {
+    "programming": [
+      {
+        "name": "C",
+        "level": "intermediate",
+        "icon": "code"
+      },
+      {
+        "name": "C++",
+        "level": "intermediate",
+        "icon": "code"
+      },
+      {
+        "name": "Java",
+        "level": "intermediate",
+        "icon": "code"
+      },
+      {
+        "name": "Python",
+        "level": "intermediate",
+        "icon": "code"
+      }
+    ],
+    "web": [
+      {
+        "name": "HTML",
+        "level": "intermediate",
+        "icon": "globe"
+      },
+      {
+        "name": "CSS",
+        "level": "intermediate",
+        "icon": "palette"
+      },
+      {
+        "name": "JavaScript",
+        "level": "intermediate",
+        "icon": "zap"
+      },
+      {
+        "name": "React",
+        "level": "intermediate",
+        "icon": "zap"
+      },
+      {
+        "name": "Vite",
+        "level": "intermediate",
+        "icon": "zap"
+      }
+    ],
+    "game": [
+      {
+        "name": "Raylib",
+        "level": "beginner",
+        "description": "Currently exploring game development fundamentals and interactive programming",
+        "icon": "gamepad2"
+      },
+      {
+        "name": "Unity",
+        "level": "exploring",
+        "icon": "box"
+      }
+    ],
+    "tools": [
+      {
+        "name": "VS Code",
+        "icon": "code"
+      },
+      {
+        "name": "Visual Studio",
+        "icon": "code"
+      },
+      {
+        "name": "Git",
+        "icon": "git-branch"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github"
+      },
+      {
+        "name": "Figma",
+        "icon": "square"
+      },
+      {
+        "name": "Blender",
+        "icon": "box"
+      },
+      {
+        "name": "Unity Engine",
+        "icon": "box"
+      },
+      {
+        "name": "Raylib",
+        "icon": "gamepad2"
+      }
+    ],
+    "learning": [
+      "AI & Machine Learning",
+      "Database Design",
+      "Backend Development",
+      "Cloud Technologies"
+    ]
+  },
+  "projects": [
+    {
+      "id": "shopflow",
+      "name": "ShopFlow",
+      "subtitle": "Inventory & Order Tracking Platform",
+      "description": "A shop management platform currently in development, designed to help shop owners manage products and inventory while allowing customers to track their orders and check their order status easily.",
+      "status": "In Development",
+      "timeline": [
+        { "stage": "Concept", "active": true },
+        { "stage": "Design", "active": true },
+        { "stage": "Development", "active": true },
+        { "stage": "Testing", "active": false },
+        { "stage": "Launch", "active": false }
+      ],
+      "features": [
+        "Product Management",
+        "Inventory Tracking",
+        "Order Tracking System",
+        "Customer Order Status"
+      ],
+      "context": "Personal Project",
+      "technologies": ["Technology stack to be finalized"],
+      "links": {
+        "github": "https://github.com/DeveshKumarTech",
+        "demo": null
+      }
+    }
+  ],
+  "exploring": [
+    {
+      "title": "🤖 AI & Machine Learning",
+      "description": "Exploring how AI can solve real-world problems and make applications more intelligent",
+      "status": "Learning"
+    },
+    {
+      "title": "🧠 Intelligent Applications",
+      "description": "Building applications that use AI/ML to provide smarter user experiences",
+      "status": "Exploring"
+    },
+    {
+      "title": "🎮 Game Development",
+      "description": "Creating interactive experiences and game mechanics with Raylib, Unity, and emerging tools",
+      "status": "Learning"
+    },
+    {
+      "title": "⚡ AI + Games",
+      "description": "Exploring how AI can enhance game design, NPC behavior, and interactive experiences",
+      "status": "Planned"
+    },
+    {
+      "title": "🧪 Innovative Projects",
+      "description": "Building experimental projects that combine multiple technologies in creative ways",
+      "status": "In Progress"
+    }
+  ],
+  "journey": {
+    "stages": [
+      {
+        "title": "Foundation",
+        "description": "Programming and computer science fundamentals"
+      },
+      {
+        "title": "Building",
+        "description": "Creating practical software projects"
+      },
+      {
+        "title": "Exploring",
+        "description": "Learning AI, ML, and emerging technologies"
+      },
+      {
+        "title": "Creating",
+        "description": "Developing applications and interactive experiences"
+      },
+      {
+        "title": "Future",
+        "description": "Growing toward advanced software engineering and intelligent systems"
+      }
+    ]
+  },
+  "education": {
+    "institution": "Lovely Professional University",
+    "degree": "B.Tech Computer Science & Engineering",
+    "location": "Punjab, India",
+    "expected_graduation": 2029
+  },
+  "certificates": [],
+  "profiles": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/DeveshKumarTech",
+      "icon": "github",
+      "primary": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/devesh---kumar",
+      "icon": "linkedin"
+    },
+    {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/u/fwfgpk36bg/",
+      "icon": "code"
+    },
+    {
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/profile/parmodkaushik201",
+      "icon": "trophy"
+    }
+  ],
+  "resume": {
+    "viewUrl": "https://drive.google.com/file/d/1-cTeBb36N6TQ40eNwkCFIKLCaqD611IH/view?usp=sharing",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-cTeBb36N6TQ40eNwkCFIKLCaqD611IH"
+  },
+  "contact": {
+    "heading": "Have an idea worth building? Let's connect.",
+    "email": "parmodkaushik2007@gmail.com",
+    "phone": "9306636087"
+  },
+  "footer": {
+    "copyright": "© 2026 Devesh Kumar. Built with curiosity, creativity, and code."
+  }
+}
