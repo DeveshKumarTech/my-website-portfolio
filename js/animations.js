@@ -27,6 +27,13 @@ class ScrollAnimations {
     // Observe all reveal elements
     document.querySelectorAll('.scroll-reveal, .scroll-reveal-left, .scroll-reveal-right, .stagger-item').forEach((el) => {
       observer.observe(el);
+      
+      // Force immediate check for elements already in viewport
+      const rect = el.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom > 0) {
+        el.classList.add('reveal');
+        observer.unobserve(el);
+      }
     });
   }
 
